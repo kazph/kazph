@@ -8,7 +8,7 @@ A list of some of my projects are:
 - **NUTN** is quite a popular website I made to help students at NTNU traverse all the university's IT-systems. It can be visited at https://kazph.github.io/nutn/
 - **SPAR-9000** is an AI to play "spar-dame," a card game using Bayesian updating as the driving force behind the algorithm.
 - **Chock-chart** is an experimental chart-maker to make simple and beautiful charts. It's extensible using Tailwind CSS and HTML instead of only SVG like most software, then converting to PDF.
-- - **Sedoku Rescue** iis a straightforward Sudoku solver that utilizes constraint propagation to efficiently solve (still only simple) puzzles.
+- **Sedoku Rescue** iis a straightforward Sudoku solver that utilizes constraint propagation to efficiently solve (still only simple) puzzles.
 
 And more!
 
